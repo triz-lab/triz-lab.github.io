@@ -1,0 +1,41 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(30deg, #94ba45, #2aadba);
+  
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #94ba45 50%, #2aadba 50%); 
+    /* --vp-home-hero-image-background-image: linear-gradient(-45deg, #d6d8d8 50%, #d6d8d8 50%);  */
+  
+    /* brand按钮 */
+    /* 正常 */
+    --vp-button-brand-text: white; /* 文字色 */
+    --vp-button-brand-border: transparent; /* 边框色 */
+    --vp-button-brand-bg: #839f3e; /* 背景色 */
+  
+    /* hover状态 */
+    --vp-button-brand-hover-text: white;
+    --vp-button-brand-hover-border: transparent;
+    --vp-button-brand-hover-bg: #586b2a;
+  
+    /* active状态-点击 */
+    --vp-button-brand-hover-text: white;
+    --vp-button-brand-hover-border: transparent;
+    --vp-button-brand-active-bg: #b2ca77;
+  
+    /* 主题色 */
+    --vp-c-indigo-1: #6e8534; /* 主题色 */
+    --vp-c-indigo-2: #586b2a; /* 主题色-hover */
+    --vp-c-indigo-3: #b2ca77;
+    --vp-home-hero-image-filter: blur(84px);
+  }
+  
+  @media (min-width: 640px) {
+    :root {
+      --vp-home-hero-image-filter: blur(106px);
+    }
+  }
+  
+  @media (min-width: 960px) {
+    :root {
+      --vp-home-hero-image-filter: blur(168px);
+    }
+  }
