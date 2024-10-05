@@ -1,4 +1,4 @@
-# Triz
+# TrizLab
 安装依赖
 ```
 npm install
