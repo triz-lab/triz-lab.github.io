@@ -103,7 +103,16 @@
 
 ## ✉ 联系方式
 
-::: danger 招新问卷链接与QQ群 ✨ 
+::: danger 大一同学招新问卷链接与QQ群 ✨ 
+
+* [招新问卷链接](https://www.xiezuowj.com/s/survey?k=J3DH1u6X&sid=19404)（请在10月18日下午5：00前填写）
+
+* 聊天QQ群：732147811
+
+:::
+
+::: tip 大二同学招新问卷链接与QQ群 ✨ 
+* ‼大二招新与大一同学是不一样的
 
 * [招新问卷链接](https://www.xiezuowj.com/s/survey?k=J3DH1u6X&sid=19404)（请在10月18日下午5：00前填写）
 
