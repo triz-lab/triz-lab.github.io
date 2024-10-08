@@ -25,10 +25,10 @@
 
 > 参考链接部分给出，可以根据需要选择同款购买
 
-- **[STM32F103C8T6 最小系统板](http://e.tb.cn/h.gGnyKNFvFvsUg09?tk=nMqO39zCD0W)**
+- [**STM32F103C8T6 最小系统板**](http://e.tb.cn/h.gGnyKNFvFvsUg09?tk=nMqO39zCD0W)
 - [**ST-Link 下载器**](http://e.tb.cn/h.gGt5EXMu2MrhPPV?tk=qPfn39Ag3pU)
 - [**面包板**](http://e.tb.cn/h.gGtV62Q0rXPFVhn?tk=1SKq39A4iJk)
-- **[焊接练习板（只购买PCB单板，无需购买套件）](http://e.tb.cn/h.guKhfEsYxRIGgK3?tk=Id7G39AisM9)**
+- [**焊接练习板（只购买PCB单板，无需购买套件）**](http://e.tb.cn/h.guKhfEsYxRIGgK3?tk=Id7G39AisM9)
 - **LED**
 - **按键**
 - **拨码旋钮**
