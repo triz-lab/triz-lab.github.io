@@ -4,7 +4,7 @@ home: true
 hero:
   # name: "TRIZ实验室"
   text: "TRIZ实验室"
-  tagline: "自2014年成立以来，一直致力于全国大学生电子设计大赛、SRTP、横向项目等方面的研究与探索 !"
+  tagline: "自2009年成立以来，一直致力于全国大学生电子设计大赛、SRTP、横向项目等方面的研究与探索 !"
   actions:
     - theme: brand
       text: 还想了解更多🔍 
